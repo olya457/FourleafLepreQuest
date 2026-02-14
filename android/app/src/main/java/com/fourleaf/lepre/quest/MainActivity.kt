@@ -1,4 +1,4 @@
-package com.fourleafleprequest
+package com.fourleaf.lepre.quest
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

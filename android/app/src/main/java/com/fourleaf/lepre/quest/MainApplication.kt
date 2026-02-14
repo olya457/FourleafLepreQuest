@@ -1,4 +1,4 @@
-package com.fourleafleprequest
+package com.fourleaf.lepre.quest
 
 import android.app.Application
 import com.facebook.react.PackageList
