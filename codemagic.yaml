@@ -8,10 +8,10 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.heghoetato.jgahohgiype
+        bundle_identifier: com.hkolyasewadert.hfyktydfertsf
       vars:
         APP_STORE_APPLE_ID: 6759206713
-        BUNDLE_ID: 'com.heghoetato.jgahohgiype'
+        BUNDLE_ID: 'com.hkolyasewadert.hfyktydfertsf'
         XCODE_WORKSPACE: 'FourleafLepreQuest.xcworkspace'
         XCODE_SCHEME: 'FourleafLepreQuest'
     scripts:
