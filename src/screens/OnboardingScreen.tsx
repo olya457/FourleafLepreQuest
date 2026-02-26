@@ -36,7 +36,7 @@ export default function OnboardingScreen({ navigation }: Props) {
       {
         key: 'p1',
         image: require('../assets/onb_1.png'),
-        title: 'Welcome to the Lepre Quest',
+        title: 'Welcome to the Leprechaun Clover Quest',
         body:
           'Begin your journey into the enchanted forest and test your eyes in the hunt for the rare fourleaf clover.',
         primary: 'Start',
